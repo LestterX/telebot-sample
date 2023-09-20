@@ -1,0 +1,16 @@
+{
+  "name": "telebot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon bot_os.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.6.1",
+    "telebot": "^1.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
